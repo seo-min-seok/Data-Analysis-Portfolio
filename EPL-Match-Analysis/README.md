@@ -10,12 +10,14 @@ EPL 경기 데이터를 활용하여
 
 
 
+
 ## Tech Stack
 
 - R
 - Python
 
----
+
+
 
 ## Files
 
@@ -29,7 +31,8 @@ EPL 경기 데이터를 활용하여
 
 - [epl_remastered_Code.ipynb](epl_remastered_Code.ipynb) : Remastered Python Code
 
----
+
+
 
 ## Key Improvement
 
@@ -43,7 +46,8 @@ EPL 경기 데이터를 활용하여
 - Cohen's d (효과크기)
 - 통계적 근거를 기반으로 핵심 경기 지표 도출
 
----
+
+
 
 ## Key Insight
 
