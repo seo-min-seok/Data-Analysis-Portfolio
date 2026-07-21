@@ -17,10 +17,10 @@
 
 ## Files
 
-- [marketing_campaign.csv](marketing_campaign.csv) : 원본 데이터
-- [marketing_campaign_code.R](marketing_campaign_code.R) : 분석 코드
-- [marketing_campaign_report.pdf](marketing_campaign_report.pdf) : 최종 보고서
-- [marketing_campaign_dashboard.twbx](marketing_campaign_dashboard.twbx) : Tableau Dashboard 원본
+- [marketing_campaign.csv](marketing_campaign.csv) : Dataset
+- [marketing_campaign_code.R](marketing_campaign_code.R) : R Code
+- [marketing_campaign_report.pdf](marketing_campaign_report.pdf) : Final Report
+- [marketing_campaign_dashboard.twbx](marketing_campaign_dashboard.twbx) : Tableau Dashboard
 
 ---
 
