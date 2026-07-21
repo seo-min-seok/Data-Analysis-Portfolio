@@ -35,18 +35,6 @@ EPL 경기 데이터를 활용하여
 
 ## Key Improvement
 
-기존 프로젝트
-- 평균 비교 중심의 분석
-
-   ↓
-
-리마스터 프로젝트
-- Paired t-test
-- Cohen's d (효과크기)
-- 통계적 근거를 기반으로 핵심 경기 지표 도출
-
-## Key Improvement
-
 | Original | Remastered |
 |----------|------------|
 | 평균 비교 중심 분석 | 대응표본 t-test |
