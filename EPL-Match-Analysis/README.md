@@ -7,7 +7,7 @@ EPL 경기 데이터를 활용하여
 
 기존 프로젝트의 한계를 보완하기 위해 Python 기반으로 프로젝트를 리마스터하여
 추가적인 통계 검정과 효과크기 분석을 수행했습니다.
-<br>
+
 <br>
   
 ## Tech Stack
@@ -30,7 +30,6 @@ EPL 경기 데이터를 활용하여
 - [epl_remastered_Code.ipynb](epl_remastered_Code.ipynb) : Remastered Python Code
 
 <br>
-<br>
 
 ## Key Improvement
 
@@ -44,7 +43,6 @@ EPL 경기 데이터를 활용하여
 - Cohen's d (효과크기)
 - 통계적 근거를 기반으로 핵심 경기 지표 도출
 
-<br>
 <br>
 
 ## Key Insight
