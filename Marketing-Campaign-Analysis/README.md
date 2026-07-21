@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-고객 특성 분석을 통해 소비 패턴을 이해하고 이를 바탕으로 마케팅 전략을 제안한 프로젝트입니다.
+고객 특성 분석을 통해 소비 패턴을 파악하고, 이를 바탕으로 마케팅 전략을 제안한 프로젝트입니다.
+총 소비액에 대한 회귀모델을 구축하고 Tableau를 활용해 핵심지표와 분석 결과를 시각화했습니다.
 
 <br>
 
@@ -27,7 +28,6 @@
 Tableau Public
 
 👉 https://public.tableau.com/views/MarketingCampaignDashboard_17846488678260/1
-
 
 <br>
 
