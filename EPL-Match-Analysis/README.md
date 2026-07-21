@@ -53,7 +53,7 @@ EPL 경기 데이터를 활용하여
 
 ### Remastered Project
 
-- [epl_remastered_Code.ipynb](epl_remastered_Code.ipynb) : Remastered Python Code
+- [epl_remastered_Code.ipynb](epl_remastered_Code.ipynb) : Remastered Python Code (결과 및 인사이트 요약 포함)
 
 <br>
 
@@ -67,4 +67,4 @@ EPL 경기 데이터를 활용하여
 ## Key Insight
 
 - 공격의 양적 확대보다 공격의 질적 효율성이 승리에 더 밀접한 요인임을 통계적으로 뒷받침함
-- 분석 결과를 바탕으로 전술 수립, 선수 영입, 훈련 방향에 대한 데이터 기반의 전략적 인사이트 발굴
+- 분석 결과를 바탕으로 전술 수립, 선수 영입, 훈련 방향에 활용 가능한 데이터 기반의 전략적 인사이트 발굴
