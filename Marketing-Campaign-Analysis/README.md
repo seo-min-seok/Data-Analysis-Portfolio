@@ -2,18 +2,16 @@
 
 ## Project Overview
 
-고객의 인구통계학적 특성과 구매 행동 데이터를 활용하여
-총 소비액(Total Spending)에 영향을 미치는 핵심 요인을 분석하고,
-마케팅 전략을 제안한 프로젝트입니다.
+고객 특성 분석을 통해 소비 패턴을 이해하고 이를 바탕으로 마케팅 전략을 제안한 프로젝트입니다.
 
----
+<br>
 
 ## Tech Stack
 
 - R
 - Tableau
 
----
+<br>
 
 ## Files
 
@@ -22,7 +20,7 @@
 - [marketing_campaign_report.pdf](marketing_campaign_report.pdf) : Final Report
 - [marketing_campaign_dashboard.twbx](marketing_campaign_dashboard.twbx) : Tableau Dashboard
 
----
+<br>
 
 ## 📊 Interactive Dashboard
 
@@ -31,7 +29,7 @@ Tableau Public
 👉 https://public.tableau.com/views/MarketingCampaignDashboard_17846488678260/1
 
 
----
+<br>
 
 ## Key Insight
 
