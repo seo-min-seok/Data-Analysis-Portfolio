@@ -21,14 +21,13 @@ EPL 경기 데이터를 활용하여
 
 ### Original Project
 
-- [Original Dataset](league.xlsx)
-- [Original R Code](epl_original_Code.R)
-- [Original Report](epl_original_report.pdf)
+- [league.xlsx](league.xlsx) : Original Dataset
+- [epl_original_Code.R](epl_original_Code.R) : Original R Code
+- [epl_original_report.pdf](epl_original_report.pdf) : Original Report
 
 ### Remastered Project
 
-- [Remastered Python Code (Jupyter Notebook)](epl_remastered_Code.ipynb)
-
+- [epl_remastered_Code.ipynb](epl_remastered_Code.ipynb) : Remastered Python Code
 
 ---
 
