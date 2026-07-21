@@ -28,9 +28,7 @@
 
 Tableau Public
 
-👉 https://public.tableau.com/app/profile/.65366437/viz/MarketingCampaignDashboard_17846488678260/1
-
-https://public.tableau.com/views/MarketingCampaignDashboard_17846488678260/1
+👉 https://public.tableau.com/views/MarketingCampaignDashboard_17846488678260/1
 
 
 ---
