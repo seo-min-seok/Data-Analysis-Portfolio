@@ -1,25 +1,43 @@
-# 📊 Data-Analysis-Portfolio
+# 📊 Data Analysis Portfolio
 
 안녕하세요.
-응용통계학을 전공하며 데이터 분석 프로젝트를 수행한 포트폴리오입니다.
+데이터를 단순히 분석하는 것을 넘어, 부족한 부분을 발견하면 스스로 개선하며 성장하는 데이터 분석가 **서민석**입니다.
 
-## Projects
+본 저장소는 주요 데이터 분석 프로젝트와 결과물을 정리한 포트폴리오입니다.
 
-### 1. Regression Analysis
-- Marketing Campaign Data Analysis
-- Regression Analysis (R)
-- Tableau Dashboard
+---
+
+## 📁 Projects
+
+### 1. Marketing Campaign Analysis
+- **주제:** 고객 소비액 예측 및 마케팅 전략 도출
+- **기술:** R, Tableau
+- **주요 분석:** 다중회귀분석, VIF, 잔차진단, Tableau Dashboard
+
+📂 `Marketing-Campaign-Analysis`
+
+---
 
 ### 2. EPL Match Analysis
-- Football Match Data Analysis
-- Python Re-mastering
-- Statistical Test (Paired t-test)
-- Effect Size Analysis
+- **주제:** 승패와 가장 관련성이 높은 경기 지표 분석
+- **기술:** R, Python
+- **주요 분석:** Paired t-test, Cohen's d, 데이터 시각화
+- 기존 프로젝트를 Python 기반으로 리마스터하여 통계적 근거를 보완
 
-## Skills
+📂 `EPL-Match-Analysis`
 
-- Python
+---
+
+## 🛠 Skills
+
 - R
+- Python
 - SQL
 - Tableau
-- Statistics
+- SAS
+
+---
+
+## 📄 Portfolio
+
+`portfolio.pdf`
